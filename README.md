@@ -17,7 +17,7 @@
     ndenv rehash
     ```
 
-#### 2. textlintおよびtextlint-rule-*のインストール  
+#### 2. textlintおよびtextlint-rule-* のインストール  
 [!] Windowsの場合はPowerShell、Mac OS Xの場合はBashで実行してください。
 ```sh
 cd [本READMEがあるディレクトリ]
