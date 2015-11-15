@@ -33,7 +33,8 @@ apm install linter-textlint # Atom内からのpackage installでもOK
 
 ## インストール確認
 1. atomで本READMEを開く  
-[!] プロジェクトとして開く必要があるのでご注意ください。  
+[!] プロジェクトとして開く必要があるのでご注意ください。
+
     ```sh
     cd [本READMEがあるディレクトリ]
     atom .
