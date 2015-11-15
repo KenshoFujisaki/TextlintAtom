@@ -1,0 +1,2 @@
+# TextlintAtom
+Atomでtextlintを使うための設定ファイル
